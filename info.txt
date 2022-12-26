@@ -1,0 +1,12 @@
+npm init // comando
+npm install cypress -- save-dev    ***comando de instalacion
+node_modules\.bin\cypress open *** comando con el cual ejecutas cypress
+
+
+instalacion  del npx (libreria)     https://www.npmjs.com/package/npx
+npm install -g npx *** comando de instalacion
+npx cypress install --force ** Forza la instalacion
+npx cypress open **Otra manera de ejecutar el programa
+
+
+
